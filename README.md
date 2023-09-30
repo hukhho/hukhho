@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Hung]!
 
-I'm a software developer with a passion for creating high-quality software solutions using various programming languages and technologies. I'm also deeply interested in security and enjoy exploring ways to make applications more secure.
+Dit me may con suc vat vao day soi
 
 ![Hukhho's GitHub stats](https://github-readme-stats.vercel.app/api?username=hukhho&show_icons=true&theme=radical)
 
