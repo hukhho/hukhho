@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Hung]!
 
-CC
+
 ![Hukhho's GitHub stats](https://github-readme-stats.vercel.app/api?username=hukhho&show_icons=true&theme=radical)
 
 ## 🔧 Technologies & Tools
