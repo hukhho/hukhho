@@ -31,8 +31,8 @@ Can dev Full-stack, but i'm strong more in backend java , basic in NextJS (not g
 
 - Advanced security concepts and tools
 - Cloud Technologies (AWS, Azure)
-- Back-end Development with C#
-
+- Java microservices
+  
 ## 📫 How to Reach Me
 
 - [LinkedIn]([your-linkedin-profile-link](https://www.linkedin.com/in/hukhho/))
