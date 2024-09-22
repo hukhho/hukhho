@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Hung]!
 
-Can dev Full-stack, but i'm strong more in backend java , basic in NextJS (not good on State Management).
+Can dev Full-stack, but i'm strong more in backend java, NextJS.
 
 ![Hukhho's GitHub stats](https://github-readme-stats.vercel.app/api?username=hukhho&show_icons=true&theme=radical)
 
